@@ -1,4 +1,4 @@
-# SOCKS5-Proxy-Gen
+# SOCKS5 Proxy Generator/Checker/LatencyCalculation
 
 Buy? Dm batu_8844
 
