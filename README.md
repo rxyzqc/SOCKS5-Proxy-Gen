@@ -7,6 +7,7 @@ Features:
 + (Optional) Validates from file with site lists having proxy sites
 + (Optional) Verifies only the file containing the proxies
 + Instantly saves working proxies to valid socks5.txt
++ Optional workers count
 
 ![image](https://github.com/rxyzqc/SOCKS5-Proxy-Gen/assets/120246386/cce7a3ca-0724-4f03-9415-13e7e674b99e)
 
