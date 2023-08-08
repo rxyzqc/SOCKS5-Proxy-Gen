@@ -1,5 +1,7 @@
 # SOCKS5-Proxy-Gen
 
+Buy? Dm batu_8844
+
 Features:
 + Using web scraping, socket & socks, concurrent.futures, thread pool executor, beautifulsoup
 + (Optional) Validates from file with site lists having proxy sites
