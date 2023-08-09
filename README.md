@@ -7,7 +7,7 @@ Features:
 + Instantly saves working proxies to valid socks5.txt
 + Using ping method for greater speed and accuracy
 + More CPU usage than network usage
-+ Optional workers count
++ Optional workers/max_latency count
 
 ![image](https://github.com/rxyzqc/SOCKS5-Proxy-Gen/assets/120246386/4747380b-93eb-4a26-bcf8-e0916472b1e2)
 
