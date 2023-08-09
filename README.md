@@ -1,4 +1,4 @@
-![image](https://github.com/rxyzqc/SOCKS5-Proxy-Gen/assets/120246386/5bac3963-4f81-45be-9490-7b066ddf1dc0)Buy? Dm batu_8844
+Buy? Dm batu_8844
 
 Features:
 + Using web scraping, concurrent.futures, ThreadPoolExecutor, BeautifulSoup
