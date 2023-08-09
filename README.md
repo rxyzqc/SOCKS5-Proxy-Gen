@@ -10,4 +10,4 @@ Features:
 
 ![image](https://github.com/rxyzqc/SOCKS5-Proxy-Gen/assets/120246386/4747380b-93eb-4a26-bcf8-e0916472b1e2)
 
-![image](https://github.com/rxyzqc/SOCKS5-Proxy-Gen/assets/120246386/f0ae49a4-780b-4b0c-9858-e00156d7a6f9)
+![image](https://github.com/rxyzqc/SOCKS5-Proxy-Gen/assets/120246386/9097b4ee-bc04-4cc0-931c-94e66b72df80)
