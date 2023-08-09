@@ -5,9 +5,9 @@ Features:
 + (Optional) Validates from file with site lists having proxy sites
 + (Optional) Verifies only the file containing the proxies
 + Instantly saves working proxies to valid socks5.txt
++ Using ping method for greater speed and accuracy
 + Optional workers count
 
-![image](https://github.com/rxyzqc/SOCKS5-Proxy-Gen/assets/120246386/cce7a3ca-0724-4f03-9415-13e7e674b99e)
+![image](https://github.com/rxyzqc/SOCKS5-Proxy-Gen/assets/120246386/4747380b-93eb-4a26-bcf8-e0916472b1e2)
 
-![image](https://github.com/rxyzqc/SOCKS5-Proxy-Gen/assets/120246386/04d732a3-2f0d-4ad8-8a4c-a33478ce0f34)
-
+![image](https://github.com/rxyzqc/SOCKS5-Proxy-Gen/assets/120246386/f0ae49a4-780b-4b0c-9858-e00156d7a6f9)
