@@ -1,7 +1,7 @@
 # Discord
 https://discord.gg/zMVzdyDhTb
 
-# Features:
+# Features
 + Using web scraping, concurrent.futures, ThreadPoolExecutor, BeautifulSoup
 + (Optional) Validates from file with site lists having proxy sites
 + (Optional) Verifies only the file containing the proxies
