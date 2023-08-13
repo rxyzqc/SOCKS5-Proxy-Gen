@@ -1,4 +1,4 @@
-Buy? Dm batu_8844
+https://discord.gg/zMVzdyDhTb
 
 # Features:
 + Using web scraping, concurrent.futures, ThreadPoolExecutor, BeautifulSoup
